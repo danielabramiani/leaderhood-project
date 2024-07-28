@@ -1,1 +1,1 @@
-link of site in july: https://66a63ed51fc25e2ab0b34fa7--golden-sunburst-018528.netlify.app/
+link of site in july: https://66a64f0907f56f2f016b3188--polite-bombolone-9c38d0.netlify.app/
